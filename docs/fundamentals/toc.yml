@@ -200,6 +200,8 @@ items:
         href: ../core/tools/sdk-errors/netsdk1073.md
       - name: NETSDK1079
         href: ../core/tools/sdk-errors/netsdk1079.md
+      - name: NETSDK1080
+        href: ../core/tools/sdk-errors/netsdk1080.md
       - name: NETSDK1145
         href: ../core/tools/sdk-errors/netsdk1145.md
   - name: .NET CLI
@@ -2308,7 +2310,7 @@ items:
         href: ../core/porting/upgrade-assistant-wpf-framework.md
       - name: Windows Forms
         href: ../core/porting/upgrade-assistant-winforms-framework.md
-      - name: ASP.NET Core
+      - name: ASP.NET
         href: ../core/porting/upgrade-assistant-aspnetmvc.md
     - name: Analyze third-party dependencies
       href: ../core/porting/third-party-deps.md
